@@ -107,6 +107,8 @@ git clone https://github.com/DGDEEPAK/Zenitsu-Bot7.git
 
 cd Zenitsu-Bot7
 
+yarn install
+
 rm -rf session
    
 npm start
@@ -135,11 +137,15 @@ pkg install ffmpeg -y
 
 pkg install wget
 
+pkg install yarn
+
 pkg install imagemagick -y
 
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot7
 
 cd Zenitsu-Bot7
+
+yarn install
 
 rm -rf session
 
@@ -161,11 +167,15 @@ apt apt install libwebp
 
 apt apt install imagemagick
 
+apt install yarn
+
 apt install bash
 
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot7
 
 cd Zenitsu-Bot7
+
+yarn install
 
 rm -rf session
 
