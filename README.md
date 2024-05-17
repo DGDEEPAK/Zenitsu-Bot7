@@ -54,7 +54,7 @@ Zenitsu-Bot-V7 Multi Device is a automated whatsapp bot developed by <a href="ht
 
 ## ```Donate Me```
 
-- [`FamPay`](https://i.ibb.co/j4dTYk3/IMG-20221229-WA0243.jpg)
+- [`GooglePay`](https://ibb.co/rZ3c0My/IMG-20221229-WA0243.jpg)
 
 <p align="left">
 
